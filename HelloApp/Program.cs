@@ -13,3 +13,8 @@ void greetWhite()
     Console.WriteLine("hello everyone");
 >>>>>>> f382e85 (Change greeting to hello everyone)
 }
+
+void greetBlack()
+{
+    Console.WriteLine("hello black");
+}
