@@ -2,10 +2,14 @@
 
 void SayHello()
 {
+<<<<<<< HEAD
     Console.WriteLine("hello");
 }
 
 void greetWhite()
 {
     Console.WriteLine("hello white");
+=======
+    Console.WriteLine("hello everyone");
+>>>>>>> f382e85 (Change greeting to hello everyone)
 }
